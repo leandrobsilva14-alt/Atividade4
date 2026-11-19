@@ -136,6 +136,52 @@ Resultados esperados
 
 Ao final do desenvolvimento, as consultas permitem extrair informações que auxiliam na análise financeira e administrativa do hospital, facilitando a identificação de valores arrecadados, médias de atendimento, despesas com internações e quantidade de medicamentos prescritos.
 
+## Estrutura do projeto
+
+```text
+hospital-db-consultas/
+│
+├── README.md
+├── consultas.sql
+│
+├── hospital_db_consultas.sql
+├── hospital_db_internacoes.sql
+├── hospital_db_medicos.sql
+├── hospital_db_pacientes.sql
+├── hospital_db_prescricoes.sql
+└── hospital_db_quartos.sql
+```
+
+README.md: arquivo responsável pela documentação do projeto, apresentando sua proposta, seus objetivos, as tecnologias utilizadas e as informações gerais sobre o desenvolvimento.
+
+consultas.sql: arquivo que reúne as 10 consultas SQL desenvolvidas para resolver as situações-problema propostas na atividade.
+
+hospital_db_consultas.sql: arquivo SQL relacionado aos dados de consultas hospitalares.
+
+hospital_db_internacoes.sql: arquivo SQL relacionado aos dados de internações.
+
+hospital_db_medicos.sql: arquivo SQL relacionado aos dados dos médicos.
+
+hospital_db_pacientes.sql: arquivo SQL relacionado aos dados dos pacientes.
+
+hospital_db_prescricoes.sql: arquivo SQL relacionado aos dados das prescrições médicas.
+
+hospital_db_quartos.sql: arquivo SQL relacionado aos dados dos quartos hospitalares.
+
+## Resultados esperados
+
+Por meio das 10 consultas desenvolvidas, o projeto busca extrair informações relevantes para a análise dos dados hospitalares. Os resultados permitem identificar valores arrecadados com consultas, médias de atendimento, custos relacionados às internações, informações sobre convênios e quantidade de medicamentos prescritos.
+
+Dessa forma, os dados armazenados podem ser utilizados para compreender diferentes aspectos do funcionamento do sistema hospitalar, facilitando a consulta e a análise das informações.
+
+## Considerações finais
+
+O desenvolvimento deste projeto proporcionou a aplicação prática dos conceitos de Banco de Dados e da linguagem SQL, envolvendo a organização de informações, o relacionamento entre tabelas e a elaboração de consultas para diferentes situações-problema.
+
+Durante a atividade, foram utilizados recursos como JOIN, WHERE, GROUP BY e funções de agregação, como SUM(), AVG() e COUNT(), reforçando os conhecimentos sobre manipulação e análise de dados.
+
+Além da prática técnica, o projeto contribuiu para o desenvolvimento do raciocínio lógico e da capacidade de interpretar problemas e transformá-los em consultas SQL.
+
 Considerações finais
 
 O desenvolvimento deste projeto proporcionou a aplicação prática dos conceitos de Banco de Dados e da linguagem SQL, reforçando conhecimentos sobre consultas, relacionamentos entre tabelas, filtros e funções de agregação.
