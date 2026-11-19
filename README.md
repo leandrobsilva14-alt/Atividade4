@@ -36,67 +36,55 @@ Consulta
 
 Finalidade
 
-01
-
-Faturamento por convênio
+01 Faturamento por convênio
 
 Identificar o valor total arrecadado por convênios específicos.
 
-02
 
-Média por especialidade
+02 Média por especialidade
 
 Calcular a média dos valores das consultas de especialidades relacionadas à Cardiologia.
 
-03
 
-Média das diárias por quarto
+03 Média das diárias por quarto
 
 Analisar os valores médios das diárias em Apartamentos e UTIs.
 
-04
 
-Consultas por médico
+04 Consultas por médico
 
 Identificar o faturamento de cada médico em consultas realizadas ou finalizadas.
 
-05
-
-Diárias por paciente
+05 Diárias por paciente
 
 Calcular os valores acumulados de internações de pacientes com sobrenome Silva.
 
-06
 
-Prescrições por status
+06 Prescrições por status
 
 Contabilizar medicamentos prescritos de acordo com o status das consultas.
 
-07
 
-Média por convênio e especialidade
+07 Média por convênio e especialidade
 
 Comparar os valores médios das consultas por convênio e especialidade médica.
 
-08
 
-Diárias de UTI por convênio
+08 Diárias de UTI por convênio
 
 Calcular a média das diárias de UTI separadas por convênio.
 
-09
 
-Prescrições por médico
+09 Prescrições por médico
 
 Identificar a quantidade de itens prescritos por médico em consultas realizadas.
 
-10
-
-Valores por paciente
+10 Valores por paciente
 
 Apresentar o valor total e a média das consultas por paciente.
 
-Tecnologias utilizadas
+
+# Tecnologias utilizadas
 
 MySQL
 
@@ -108,9 +96,6 @@ Ferramenta utilizada para desenvolver, executar, testar e visualizar os resultad
 
 SQL (Structured Query Language)
 
-Linguagem utilizada para realizar consultas e extrair informações do banco de dados.
-
-Conceitos e recursos aplicados
 
 Durante o desenvolvimento das consultas, foram utilizados os seguintes recursos:
 
