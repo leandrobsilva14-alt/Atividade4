@@ -30,9 +30,8 @@ Consultas desenvolvidas
 
 O projeto contém 10 consultas, cada uma desenvolvida para atender a uma necessidade específica do ambiente hospitalar.
 
-Nº
 
-Consulta
+# Consulta
 
 Finalidade
 
